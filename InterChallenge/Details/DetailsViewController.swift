@@ -25,4 +25,5 @@ class DetailsViewController: UIViewController {
         customView.detailImageView.image = viewModel.photo
         customView.nameLabel.text = viewModel.name
     }
+    
 }

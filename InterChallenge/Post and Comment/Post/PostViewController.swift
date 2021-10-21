@@ -39,7 +39,6 @@ class PostViewController: UIViewController {
 }
 
 // MARK: - TableView Extensions
-
 extension PostViewController: UITableViewDelegate {
     
     func tableView(_ tableView: UITableView, didSelectRowAt indexPath: IndexPath) {

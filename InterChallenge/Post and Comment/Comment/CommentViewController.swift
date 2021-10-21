@@ -38,11 +38,8 @@ class CommentViewController: UIViewController {
 }
 
 // MARK: - TableView Extensions
-
 extension CommentViewController: UITableViewDelegate {
-    
     func tableView(_ tableView: UITableView, didSelectRowAt indexPath: IndexPath) {}
-    
 }
 
 extension CommentViewController: UITableViewDataSource {

@@ -1,6 +1,7 @@
 import Foundation
 
 final class CommentViewModel {
+    
     var postId = Int()
     var userName = String()
     var comments = [Comment]()

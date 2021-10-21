@@ -1,6 +1,7 @@
 import Foundation
 
 final class ChallengeViewModel {
+    
     var coordinator: MainCoordinator
     var users = [User]()
     

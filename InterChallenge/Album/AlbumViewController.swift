@@ -58,4 +58,5 @@ extension AlbumViewController: UITableViewDataSource {
         cell.albumNameLabel.text = album.title
         return cell
     }
+    
 }

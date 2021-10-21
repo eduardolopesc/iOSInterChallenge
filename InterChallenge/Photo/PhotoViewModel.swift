@@ -1,6 +1,7 @@
 import UIKit
 
 final class PhotoViewModel {
+    
     var coordinator: MainCoordinator
     var albumId = Int()
     var userName = String()

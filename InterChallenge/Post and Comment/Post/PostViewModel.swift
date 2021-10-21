@@ -1,6 +1,7 @@
 import Foundation
 
 final class PostViewModel {
+    
     var coordinator: MainCoordinator
     var userId = Int()
     var userName = String()
